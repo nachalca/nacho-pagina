@@ -1,0 +1,27 @@
+---
+title: ""
+---
+
+Some projects I am working 
+
+
+## Statistics for sports 
+- work with Andres Sosa
+- undergrad course for stats 
+- working paper on baskekball
+- shiny app 
+- Martin Grau final project 
+
+## Computational Statistics 
+- with natalia
+- spice work 
+- weightted methods 
+- ceibal project 
+
+## Pharmaceutical statistics 
+- with manuel ibarra y martin umpierrez 
+- preDose package 
+
+
+
+

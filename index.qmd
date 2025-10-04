@@ -1,0 +1,54 @@
+---
+title: "Ignacio Alvarez Castro"
+subtitle: "Statistics | Data Sicence | IESTA-UDELAR"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpeg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  links:
+    - icon: github
+      href: https://github.com/nachalca
+    - icon: linkedin
+      href: https://www.linkedin.com/in/ignacio-alvarezcastro
+    - text: "{{< iconify simple-icons bluesky >}}"
+      href: https://bsky.app/profile/nachalca.bsky.social
+    - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+      href: "mailto:ignacio.alvarez@fcea.edu.uy"  
+---
+
+::: {.justify}
+
+I am Assistant Professor of Statistics in the Department of Quantitative Methods at Universidad de la República in Montevideo, Uruguay ([UDELAR-IESTA](http://www.iesta.edu.uy)).  I earned my Ph.D. in Statistics from [Iowa State University](https://www.iastate.edu) in July 2017, under the supervision of [Jarad Niemi](https://jarad.me) working on Bayesian methods for counts in high dimensions. 
+
+My research interests include Bayesian methods for hierarchical models, graphical statistics and data visualization, statistical methods for sport analitycs, animal movement. Check out some of the projects I am currently working and some of my published papers and Rstats projects.  
+
+
+I love teaching statistics and data science. In recent years I've being responsable for undergrad stats courses and master level courses.  
+:::
+
+<!-- ::: columns
+::: {.column width="40%"} -->
+
+## Interests
+
+-   Hierarchical models 
+
+-   Computational Statistics
+
+-   Exploratory and graphical data analysis
+
+<!-- :::
+::: {.column width="60%"} -->
+
+## Education
+
+##### 2017 PhD in Statistics, [IASTATE, USA]{style="color: red;"}
+
+
+#####  2014 MS in Statistics, [IASTATE, USA]{style="color: red;"}
+
+##### 2010 BSc in Economics, [UdelaR, Uruguay]{style="color: blue;"} 
+
+##### 2008 BSc in Statistics, [UdelaR, Uruguay]{style="color: blue;"}
+<!-- :::
+::: -->

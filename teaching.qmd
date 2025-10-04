@@ -1,0 +1,41 @@
+---
+title: "Teaching"
+---
+
+I really enjoy teaching statistics in general in different context (courses and educational programs). Always combining stat methods, computational tools (#rstats love!) and real data aplications in the classroom. All teaching material is in spanish. 
+
+## Statistics Major   
+
+- **Descriptive Stattistics**. First stat course in undergraudate program. The main goal is to introduce students in data exploration and the use of R. 
+
+-  **Bayesian methods**. First Bayesian course for intermediate/advanced stat major students.  
+
+-  **Statistics in sport**. Elective course in stat undergrad program. Main goal is to explore data and statistical methods with sport aplications. 
+
+
+#### Final undergrad STAT projets 
+
+All availables at [colibri](https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/25555?offset=0)
+
+- 2025 Análisis estadístico de la posesión del balón en los Mundiales de fútbol Catar 2022 y Australia / Nueva Zelanda 2023. **Martín Grau Pérez Santomauro**
+
+- 2024 Aprendizaje estadístico aplicado para potenciar la enseñanza de inglés en primaria: el caso de Ceibal en Inglés en Uruguay. **Bruno Tancredi**
+
+- 2024 Predicción de series de tiempo semanales mediante modelos de espacio - estado **Maximiliano Saldaña**
+
+- 2022 Monitor de indicadores socioeconómicos obtenidos a partir de la Encuesta Continua de Hogares. **Mauricio Pittamiglio**. 
+
+- 2019 Estimación de densidades mediante mezclas controladas por el Proceso de Dirichlet. **Manuel Hernández, Mario Sierra**
+
+## Other programs and short courses 
+
+- *Data Science for busines*. I've designed and coordinate a  Data science diploma oriented to accounting and busines graduated students. The diploma consist in 100 hours of coursework and a final capstone project. (more info) 
+
+- *Introducción a la estadística Bayesiana con aplicaciones de estimación en áreas pequeñas usando software STAN* CLATSE-2024, Cali, Colombia. 
+
+- *Data science for busines*. Elective course in Information Systems program, oriented to graduated students (mainly) in accounting and busines majors. 
+
+- *Statistical Learning*. Elective course in Master in Economics program. The main goal is to introduce students to machine learning methods and the treatment effect estimation using machine learning.  
+
+
+

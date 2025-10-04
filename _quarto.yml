@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Home"
+  open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
+  page-footer: "Made with ❤️ and Quarto"
+  navbar:
+    title: Ignacio Alvarez-Castro
+    right:
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching 
+        href: teaching.qmd
+      - text: Projects
+        href: projects/index.qmd
+
+
+format:
+  html:
+    theme: Flaty
+    css: styles.css
+
+# format:
+#   html:
+#     theme: [Superhero, styles.scss]

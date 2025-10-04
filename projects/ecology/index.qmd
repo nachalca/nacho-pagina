@@ -1,0 +1,17 @@
+---
+title: "Statistical methods in ecology"
+date: "2019"
+image: "ovejas_plots1.png"
+categories:
+  - Bayesian
+  - Animal movement
+---
+
+
+In collaborate with [Vianey Leos Barajas](https://www.vleosbarajas.com) on statistical models for animal movement. 
+
+<br><br>
+
+- Revision of statistical methods used in animal movement. Revision paper to appears in 2026.  
+- Approximate Bayesian Computation for animal movement ([abc paper](https://peerj.com/articles/8452/))
+

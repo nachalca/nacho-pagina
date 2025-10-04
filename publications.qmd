@@ -1,0 +1,46 @@
+---
+title: ""
+page-layout: full
+title-block-banner: true
+---
+
+::::::: {#hero-heading}
+## Papers
+
+:::: {.column width="80%"}
+::: justify
+-   da Silva, N., Alvarez-Castro, I., Moreno, L. et al. SpICE: an interpretable method for spatial data. Comput Stat (2024). https://doi.org/10.1007/s00180-024-01538-6
+
+-   Phanse, Y. ; Puttamreddy, S.; Loy, D.; Ramirez, J.V.; Ross, K.A.; Alvarez-Castro, I.; Mogler, M.; Broderick, S.; Rajan, K.; Narasimhan, B.; Bartholomay, L.C. RNA Nanovaccine Protectsagainst White Spot Syndrome Virus in Shrimp. Vaccines 2022, 10, 1428. https://doi.org/ 10.3390/vaccines10091428
+
+-   Michael G. Muszynski , Lindsay Moss-Taylor, Sivanandan Chudalayandi, James Cahill, Angel R.Del Valle-Echevarria, Ignacio Alvarez-Castro, Abby Petefish, Hitoshi Sakakibara, Dmitry M.Krivosheev, Sergey N. Lomin, Georgy A. Romanov, Subbiah Thamotharan, Thao Dam, Bailin Li, Norbert Brugi\`ere, The Maize Hairy Sheath Frayed1 (Hsf1) Mutation Alters Leaf Patterning through Increased Cytokinin Signaling, The Plant Cell, Volume 32, Issue 5, May 2020, Pages 1501–1518, https://doi.org/10.1105/tpc.19.00677
+
+-   Sofia Ruiz-Suarez , Vianey Leos-Barajas, Ignacio Alvarez-Castro, & Juan Manuel Morales. (2020). Using approximate Bayesian inference for a “steps and turns” continuous-time random walk observed at regular time intervals. PeerJ, vol 8, p. e8452.
+
+-   Ignacio Alvarez-Castro , Jarad Niemi (2019). Fully Bayesian analysis of allele-specific RNA-seq data. Mathematical Biosciences and Engineering. 16(6): 7751-7770. (doi: 10.13031/aea.12396)
+
+-   da Silva, N., Alvarez-Castro, I. Clicks and cliques: exploring the soul of the community. *Comput Stat* 34, 1537–1563 (2019). <https://doi.org/10.1007/s00180-019-00881-3>
+
+-   Harishchandra Jadhav , Steven Hoﬀ, J. Harmon, Ignacio Alvarez, D. S. Andersen, and U. Passe, (2018). Swine Finishing Room Air Infiltration: Part 1. Quantification and Prediction. AppliedEngineering in Agriculture. 34(2): 413-424. (doi: 10.13031/aea.12396)
+
+-   He Ma ; Hongwei Xin; Ignacio Alvvarez; Timoty Shepard, (2015). ”Assessment of lighting needs by W-36 laying hens via preference test.” ANIMAL, p.: 1 - 10, 2015
+
+-   Alvarez, I., da Silva, N., Forteza, Álvaro, & Rossi, I. (2012). Incentives and retirement patterns in Uruguay. *Estudios Económicos* De El Colegio De México, 27(2), 219–271. <https://doi.org/10.24201/ee.v27i2.91>
+
+-   Alvarez, Ignacio, da Silva, Natalia, Forteza, Álvaro, & Rossi, Ianina. (2010). ¿Qué Incentivos al Retiro Genera la Seguridad Social?: El Caso Uruguayo. *Latin American Journal of Economics*-formerly Cuadernos de Economía, Instituto de Economía. Pontificia Universidad Católica de Chile., vol. 47(136), pages 217-247.<https://dx.doi.org/10.4067/S0717-68212010000200004>
+
+-   Forteza, A., Alvarez, I., da Silva, N., Rossi, I. (2009) El retiro de los trabajadores uruguayos y la seguridad social. *Revista de Economía*, Vol. 16, No. 2.
+
+-   Rodriguez, S., Alvarez, I., da Silva, N. (2009) Producto potencial y Brecha de Producto en Uruguay. *Quantum*, ISSN: 07977859, p. 4 - 21.
+:::
+::::
+
+## Accepted Papers
+
+:::: {.column width="80%"}
+-   Vianey Leos-Barajas, Ignacio Alvarez-Castro, Juan Morales. Statistics for animal movement. Annual Review of Statistics and Its Application
+
+::: justify
+:::
+::::
+:::::::
