@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/computation/index.html",
+      "/projects/sport/index.html",
+      "/projects/clima/index.html",
+      "/projects/ecology/index.html",
+      "/projects/bayesian-methods/index.html"
+    ]
+  }
+]
